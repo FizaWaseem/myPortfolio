@@ -26,7 +26,7 @@ export default function ContactMe() {
     {
       id: 4,
       name: <WhatsAppIcon className="icon" />,
-      link: "https://wa.me/9203060622399 ",
+      link: "https://wa.me/9203126107780",
     },
   ];
   const colors = [
