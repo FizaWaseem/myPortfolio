@@ -26,7 +26,7 @@ export default function Aboutme() {
         <Grid className="btn_div">
           <Grid className="buttons">
             <AnchorLink href="#contact" style={{ textDecorationLine: "none" }}>
-              <Typography className="hire">Contact Me</Typography>
+              <Typography className="hire">Contact Me  </Typography>
             </AnchorLink>
           </Grid>
           <Grid className="buttons">
