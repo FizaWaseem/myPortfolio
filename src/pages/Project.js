@@ -114,7 +114,6 @@ function Project() {
             </a>
             <Typography className="pText">Tour Smart</Typography>
           </Grid>
-{/* dfdf */}
         </Grid>
       </Grid>
     </div>
