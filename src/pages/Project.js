@@ -112,7 +112,7 @@ function Project() {
                 className="projectImg"
               />
             </a>
-            <Typography className="pText">Tour Smart</Typography>
+            <Typography className="pText">Tour-Smart</Typography>
           </Grid>
         </Grid>
       </Grid>
