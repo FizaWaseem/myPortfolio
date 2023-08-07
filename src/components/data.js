@@ -4,15 +4,10 @@ import  javascript  from "../assests/javascript.png";
 
 import  react  from "../assests/react.png";
 import  nodejs  from "../assests/nodejs.png";
-import  express  from "../assests/express.png";
 import  mongodb  from "../assests/mongodb.png";
 // import  sql  from "../assests/sql.png";
 // import  oracle  from "../assests/oracle.png";
-import  vscode  from "../assests/vscode.png";
 // import  Npm  from "../assests/Npm.png";
-import  netlify  from "../assests/netlify.png";
-import  xampp  from "../assests/xampp.jpeg";
-import  github  from "../assests/github.png";
 
 const Programs=[
     {id:1,name:"Html5",Img:html},

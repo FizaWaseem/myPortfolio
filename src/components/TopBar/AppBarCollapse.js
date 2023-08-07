@@ -8,7 +8,6 @@
  import { Button,  MenuItem } from "@material-ui/core";
  import { withStyles } from "@material-ui/core/styles";
  import ButtonAppBarCollapse from "./ButtonAppBarCollapse";
- import { Link } from '@reach/router';
  import AnchorLink from 'react-anchor-link-smooth-scroll'
  const styles = theme => ({
    root: {

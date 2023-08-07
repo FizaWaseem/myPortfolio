@@ -21,21 +21,21 @@ const Landing = () => {
     <div className="start">
       <Grid container style={{ paddingTop: "50px" }}>
         <Grid item xs={12} sm={6} className="text-center">
-          <img src={dot} className="dot1" />
-          <img src={dot} className="dot2" />
-          <img src={dot} className="dot" />
+          <img src={dot} alt='o' className="dot1" />
+          <img src={dot} alt='o' className="dot2" />
+          <img src={dot} alt='o' className="dot" />
           <Fade left>
-            <img src={cloud} />
+            <img src={cloud} alt='o' />
           </Fade>
           <Fade left>
-            <img src={cloud2} delay={700} className="cloud2" />
+            <img src={cloud2} alt='o' delay={700} className="cloud2" />
           </Fade>
         </Grid>
         <Grid item xs={6} className="text-right">
-          <img src={dot} className="dot" />
+          <img src={dot} alt='o' className="dot" />
           <Fade top delay={800}>
             {" "}
-            <img src={sparrow} className="sparrow" />{" "}
+            <img src={sparrow} alt='o' className="sparrow" />{" "}
           </Fade>
         </Grid>
       </Grid>
@@ -47,7 +47,7 @@ const Landing = () => {
           </h1>
         </Fade>
         <Fade delay={700} bottom>
-          <img src={landing} className="landing" />
+          <img src={landing} alt='o' className="landing" />
         </Fade>
         <Link to="/Intro" style={{ textDecoration: "none" }}>
           <Button className="button">
@@ -60,28 +60,28 @@ const Landing = () => {
         <Grid item xs={3} sm={6} className="text-left">
           <Fade delay={1000} left>
             {" "}
-            <img src={cycle} className="cycle" />
+            <img alt='o' src={cycle} className="cycle" />
           </Fade>
           <Fade delay={700} bottom>
-            <img src={leaf4} className="leaf3" />
+            <img alt='o' src={leaf4} className="leaf3" />
           </Fade>
         </Grid>
         <Grid item xs={8} sm={3} className="text-right">
           <Fade delay={900} right>
             {" "}
-            <img src={tree} className="tree" />
+            <img alt='o' src={tree} className="tree" />
           </Fade>
           <Fade bottom>
-            <img src={leaf} className="leaf" />
+            <img alt='o' src={leaf} className="leaf" />
           </Fade>
         </Grid>
         <Grid item xs={8} sm={2} className="text-left">
           <Roll left opposite collapse>
-            <img src={leaf2} className="leaf2" />
+            <img alt='o' src={leaf2} className="leaf2" />
           </Roll>
           <Fade bottom></Fade>
           <Fade bottom>
-            <img src={branch} className="branch" />
+            <img alt='o' src={branch} className="branch" />
           </Fade>
         </Grid>
       </Grid>

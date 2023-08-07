@@ -10,7 +10,7 @@ const [startLoading, handleLoading] = useState(0);
   
   useEffect(() => {
     handleLoading(1);
-  })
+  },[])
 
 
     return (
