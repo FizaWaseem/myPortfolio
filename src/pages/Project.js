@@ -12,6 +12,7 @@ import cloud from "../assests/cloud.svg";
 import Fade from "react-reveal/Fade";
 import CompanyLogo from "../assests/CompanyLogo.png";
 import custodiy from "../assests/custodiy.png";
+import TourX from "../assests/TourX.png";
 
 function Project() {
   return (
@@ -102,7 +103,19 @@ function Project() {
             <Typography className="pText">Chat App</Typography>
           </Grid>
         </Grid>
-       
+        <Grid xs={12} className="mt-5 proj" >
+          <Grid xs={12} md={3} className="projectDiv">
+            <a href="https://travel-x.netlify.app/" target="blank">
+              <img
+                src={TourX}
+                alt="project1"
+                className="projectImg"
+              />
+            </a>
+            <Typography className="pText">Tour X</Typography>
+          </Grid>
+
+        </Grid>
       </Grid>
     </div>
   );
