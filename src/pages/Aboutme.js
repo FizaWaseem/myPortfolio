@@ -31,7 +31,7 @@ export default function Aboutme() {
           </Grid>
           <Grid className="buttons">
             <a
-              href="https://drive.google.com/file/d/18ZRJ1R6vMRidGdwOVmGF9hz5UeM3NfoP/view?usp=drive_copy"
+              href="https://drive.google.com/file/d/1Pwk22v7pUgOkXOYdrmJrx4zI-R6H7YrW/view?usp=sharing"
               target="_blank"
               style={{ textDecorationLine: "none" }}
             >
