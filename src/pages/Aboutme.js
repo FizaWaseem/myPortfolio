@@ -22,6 +22,8 @@ export default function Aboutme() {
           Passionate Web and Mobile App Developer having an experience of
           building Web and Mobile Application with Javascript / React Js /
           NodeJs / React Native and some other cool liberaries and framework.
+          I discovered the potential to address user issues through technology, 
+          thanks to my understanding of Design Thinking. 
         </Typography>
         <Grid className="btn_div">
           <Grid className="buttons">
@@ -31,7 +33,7 @@ export default function Aboutme() {
           </Grid>
           <Grid className="buttons">
             <a
-              href="https://drive.google.com/file/d/1MjPCxMQSRJ7v8WmD9kFOdKULy8yrYy9P/view?usp=sharing"
+              href="https://drive.google.com/file/d/1v_SdlqzTrKC_6sBQHXiQN3gKjiiAm1qq/view?usp=sharing"
               target="_blank"
               style={{ textDecorationLine: "none" }}
             >
